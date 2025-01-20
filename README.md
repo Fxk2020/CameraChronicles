@@ -1,0 +1,2 @@
+# CameraChronicles
+我想要培养摄影的爱好，因此我创建了一个记录硬件参数和学习历程的GitHub仓库。
